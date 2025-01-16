@@ -85,4 +85,4 @@ criar uma imagem da turma da alegria segurando um cofrinho e os personagens segu
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [ValeriaSantosCaires](https://github.com/ValeriaSantosCaires)(https://github.com/ValeriaSantosCaires/prompts-for-podcast-generate-by-ia)
